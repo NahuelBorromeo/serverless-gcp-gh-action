@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-nborromeo
+service: serverless-calculate-bmi-bborromeo
 
 provider:
   name: google
